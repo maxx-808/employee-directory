@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+# Employee Directory
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+[Description](#description)
 
-### `npm start`
+[Steps](#steps)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[Usage Information](#usage-information)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[Contributors](#contributors)
 
-### `npm test`
+[User Guidelines](#user-guidelines)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Test Instructions](#test-instructions)
 
-### `npm run build`
+[Questions?](#questions?)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<a name="description"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Description:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Homework 19: create a react app that takes an object array of "employees" and create a table to allow the user to look through them. have a way to sort and a way to filter array as well. For my app, there is a sort by gender, last name and a filter by work exp in company.
 
-### `npm run eject`
+<a name="steps"></a>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Steps:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+to install, clone repo, npm install in employe_dir directory
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<a name="usage-information"></a>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Usage Information:
 
-## Learn More
+See Heroku url to deployable app, if using through cloned repo, npm start in terminal in root directory. there will be a navbar with selection on sorting as well as a button to generate a new group of employees, must reload page or press reload button to allow mapping.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<a name="contributors"></a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributors
 
-### Code Splitting
+Max Higa
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<a name="user-guidelines"></a>
 
-### Analyzing the Bundle Size
+## User Guidelines:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Create a react app from scratch, call the random gen api and be able to sort and filter through the array on the page
 
-### Making a Progressive Web App
+<a name="test-instrucions"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Test Instructions:
 
-### Advanced Configuration
+see usage information and installation requirements, no actual testing accessable
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<a name="questions?"></a>
 
-### Deployment
+## Questions?
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+You can contact me through:
 
-### `npm run build` fails to minify
+## Github Profile:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://www.github.com/maxx-808
+
+## Github Deployable URL:
+
+https://maxx-808.github.io/employee-directory/
+
+## Email Address:
+
+maxhiga.hawaii@gmail.com
