@@ -43,13 +43,13 @@ click refresh and it will bring new people in
 
 ## Steps:
 
-to install, clone repo, npm install in employe_dir directory
+to install, clone repo, npm install in client directory
 
 <a name="usage-information"></a>
 
 ## Usage Information:
 
-See Heroku url to deployable app, if using through cloned repo, npm start in terminal in root directory. there will be a navbar with selection on sorting as well as a button to generate a new group of employees, must reload page or press reload button to allow mapping.
+See github deployable url to deployable app, if using through cloned repo, npm start in terminal in root directory. there will be a navbar with selection on sorting as well as a button to generate a new group of employees, must reload page or press reload button to allow mapping.
 
 <a name="contributors"></a>
 
