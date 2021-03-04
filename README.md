@@ -22,7 +22,7 @@
 
 ## Description:
 
-Homework 19: create a react app that takes an object array of "employees" and create a table to allow the user to look through them. have a way to sort and a way to filter array as well. For my app, there is a sort by gender, last name and a filter by work exp in company.
+Homework 19: create a react app that takes an object array of "employees" and create a table to allow the user to look through them. have a way to sort and a way to filter array as well. For my app, there is a sort by gender, last name and a filter by work exp in company. Deploying a react app to github and getting a deployable link working was hard, I had to edit and change things as well as do a new repo and react-app 3 or 4 times, the instructions given were different then the ones I used to solve this problem
 
 <a name="steps"></a>
 
